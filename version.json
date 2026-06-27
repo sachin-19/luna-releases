@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.7",
-  "min_supported_version": "1.0.6",
+  "latest_version": "1.0.8",
+  "min_supported_version": "1.0.7",
   "mandatory": true,
   "download_url": "https://github.com/sachin-19/luna-releases/releases/latest/download/app-release.apk",
   "release_notes": "Bug Fixes"
